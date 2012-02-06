@@ -1,0 +1,6 @@
+[submodule "library/Vulnero"]
+	path = library/Vulnero
+	url = git://github.com/andrew-kandels/vulnero.git
+[submodule "library/Zend"]
+	path = library/Zend
+	url = https://github.com/Enrise/Zend.git
