@@ -40,7 +40,6 @@
  * @license     http://www.opensource.org/licenses/bsd-license.php  BSD License
  * @link        http://www.vulnero.com
  */
-
 define('APPLICATION_ENV', 'test');
 
 require_once dirname(__FILE__) . '/../wordpress-plugin.php';
